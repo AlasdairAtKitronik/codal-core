@@ -98,6 +98,6 @@ enum PanicCode{
     DEVICE_JACDAC_ERROR = 60,
 
     // hardware incorrect configuration
-    DEVICE_HARDWARE_CONFIGURATION_ERROR = 90,
+    DEVICE_HARDWARE_CONFIGURATION_ERROR = 95,
 };
 #endif
